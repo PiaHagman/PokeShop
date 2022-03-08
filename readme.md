@@ -1,9 +1,5 @@
-Starta kompilatorn med tsc --watch
-Koda! Alla .ts filer byggs automatiskt om till .js där de ligger.
+Denna hemsida bygger på [PokéAPI](https://pokeapi.co/), all info om pokemon hämtas härifrån. I webbshopen kan man kan browsa pokemon via en pagination och få mer info om varje pokemons i en modal. Det går att lägga till pokemon i sin kundvagn. <br>
+- web-api:n används för att fylla ut hemsidan. Ingen hårdkodad data
+- events används för trigga ytterligare web-api anrop vid behov <br>
 
-Planering:
-Två filer, en för glue-kod och en för logik. Eventeullt en util-fil.
-Pagination + modal
-Försöka göra kundvagn och använda localStorage för att spara mellan sessioner
-Design påminner om pokekorten
-Info värd att ha med: Bild, namn, ability, length, weight, pokedex-nummer, pris - Läs mer: flavor text, HP, type (design: bakgrund efter typ, ex gräs)
+Co-coder [Johan Fahlgren](https://github.com/johan-fahlgren)
