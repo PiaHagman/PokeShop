@@ -1,4 +1,4 @@
-# Projektarbete Javascript
+# Rapport projektarbete Javascript
 
 _PokéShop, februari-mars 2022_<br>
 _Pia Hagman och Johan Fahlgren_
