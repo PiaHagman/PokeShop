@@ -3,3 +3,5 @@ Denna hemsida bygger på [PokéAPI](https://pokeapi.co/), all info om pokemon h�
 - events används för trigga ytterligare web-api anrop vid behov <br>
 
 Co-coder [Johan Fahlgren](https://github.com/johan-fahlgren)
+
+https://piahagman.github.io/PokeShop/
