@@ -1,6 +1,6 @@
 EC Utbildning, Webbutvecklare inom .NET <br>
 Projetarbete i Javascript <br>
-Jan-Feb 2022 <br>
+Feb-mars 2022 <br>
 Co-coder [Johan Fahlgren](https://github.com/johan-fahlgren)
 
 Denna hemsida bygger på [PokéAPI](https://pokeapi.co/), all info om pokemon hämtas härifrån. I webbshopen kan man kan browsa pokemon via en pagination och få mer info om varje pokemons i en modal. Det går att lägga till pokemon i sin kundvagn. <br>
